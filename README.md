@@ -87,7 +87,7 @@ We can also select the seed set based on domain knowledge.
     graph.txt
 ## Screenshots
 
-![Output Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Output Screenshot](https://github.com/AyanPahari/TrustRank-Implementation-Python/blob/master/output.JPG)
 
 
 ## Acknowledgements
